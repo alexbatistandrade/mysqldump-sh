@@ -8,6 +8,6 @@ Um mysqldump é uma ferramenta do MySQL que permite exportar o conteúdo de um b
 
 -- 
 
-mysqldump -u <username> -p <password> <database_name> > <file_name>.sql
+mysqldump -u <username> -p <passworddd> <database_name> > <file_name>.sql
   
 Nesse caso o script em shel é utilizado para realizar de forma automatizada, podendo criar um scheduled via crontab.
