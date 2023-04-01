@@ -1,4 +1,4 @@
-# mysqldump-sh
+# mysqldump
 
 ## Introdução
 
